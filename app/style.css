@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+
+  background-image: url('field.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.player {
+  cursor: pointer;
+}
+
+
+
+/*.slider {
+  width: 900px;
+  height: 30px;
+  padding: 50px;
+  border-radius: 65px;
+
+  background-color: lightgray;
+}
+
+.slider__line {
+  width: 900px;
+  height: 30px;
+  border-radius: 15px;
+
+  background-color: gray;
+}
+
+.slider__thumb {
+  position: relative;
+  top: -35px;
+  left: 435px;
+  width: 30px;
+  height: 100px;
+  border-radius: 15px;
+
+
+  background-color: #383838;
+  cursor: pointer;
+}*/
